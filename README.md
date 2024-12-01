@@ -1,7 +1,10 @@
 <div align=center>
 	<img src="./banner.png" width="2000px"/>
 </div>
-
+<h3 align=center>My Tech.</h3>
+<div align=center>
+	<img src="./teck.png" width="500px"/>
+</div>
 <!--
 **lgangkai/lgangkai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
