@@ -6,6 +6,7 @@
 <div align=center>
 	<img src="./teck.png" width="500px"/>
 </div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lgangkai)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **lgangkai/lgangkai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
