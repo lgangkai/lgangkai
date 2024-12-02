@@ -8,6 +8,15 @@
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lgangkai)](https://github.com/anuraghazra/github-readme-stats)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lgangkai&show_icons=true) 
+
+<h2>My Projects.</h2>
+<h3>JIMOTO:</h3> JIMOTO is an website project for buying and selling things and services with local(jimoto in Japanese) people.
+
+Here are the <a href = "https://github.com/lgangkai/jimoto-front">frontend<a/> using javascript and react, and <a href = "https://github.com/lgangkai/jimoto">backend<a/> using GoLang using microservice.
+
+<img src="./jimoto.png" width="700px"/>
+
+
 <!--
 **lgangkai/lgangkai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
